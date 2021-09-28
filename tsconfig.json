@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext",
+    "strict": true,
+    "alwaysStrict": true,
+    "strictNullChecks": false,
+    "moduleResolution": "node",
+    "removeComments": false,
+    "pretty": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "experimentalDecorators": true
+  },
+  "include": ["src/**/*.ts"]
+}
